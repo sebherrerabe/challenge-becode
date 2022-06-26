@@ -34,8 +34,9 @@ Prepare and design your project before coding!
 
 - [ ] Define your scope and user needs.
 - [ ] Style and move around your app's components.
-- [ ] Ask for some feedback
+- [ ] Ask for some feedback before starting
 
+You can use any tool out there. Personally I get along with Figma :)
 
 ### `Organise your folders`
 
