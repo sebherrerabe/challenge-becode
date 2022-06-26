@@ -4,7 +4,7 @@
 
 ## Requirements
 
-Create a simple CRUD application using React and SebTheWiseAPI
+Create a simple CRUD application using React and myAPI
 
 - Retrieve and display a list of posts (user, title, body)
 - Create new post (showing a simple form in place that submit data) displaying
@@ -132,12 +132,21 @@ const post = {
     }
  ```
 
-
-
-
-
 ### `Re-factor your code`
+
+Once everything is working properly, have another look to your code...
+
+- [ ] Is there something that i'm repeating and I could just write it once?
+- [ ] Is there a cleaner syntax for this piece of code ?
+- [ ] Write down a list of all the stuff you'd like to improve and shoot them one by one
 
 
 ### `Deploy`
+
+Once you are done...
+
+- [ ] Clone your branch to your own repo.
+- [ ] Link your repo to your heroku app
+- [ ] Add commitments and push !
+- [ ] Send me the final version
 
