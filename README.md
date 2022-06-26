@@ -13,10 +13,35 @@ the created data when submitted
 - Update a post (with a button for each element in the list, showing a form in
 place with data to update) displaying the updated data when submitted
 
+Bonus
+
+- Add Images to your post using Cloudinary
+- Create your own API & DataBase
+
+
+## Our goal
+
+- Learn and Understand React workflow. (Especially States and Re-rendering)
+- Learn Basic React Hooks (useState, useEffect)
+- Do simple CRUD (Create, Read, Update & Delete) Operations using React.
+- Organise in a readable way your project folders
+- Split your code in small components when needed
+- Write clean & consistent code
+
 ### `Design`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### `Organise your folders`
+
+
+### `Create HTML & CSS-only components`
+
+
+### `Add functionalities`
+
+
+### `Re-factor your code`
+
+
+### `Deploy`
+
