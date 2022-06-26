@@ -155,5 +155,5 @@ Once you are done...
 
 ## Tuturials to consider
 
-- (**https://www.youtube.com/watch?v=hQAHSlTtcmY&t=1372s**)
+- [Web Dev Simplified React Tutorial](https://www.youtube.com/watch?v=hQAHSlTtcmY&t=1372s)
 
