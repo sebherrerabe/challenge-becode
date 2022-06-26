@@ -1,8 +1,8 @@
 # React CRUD Challenge
 
-![SebsBook](./imgs/sebsbook.png?raw=true "SebsBook")
+![SebsBook](./imgs/sebsbook.png?raw=true "SebsBook")(https://tapio-exercise.herokuapp.com/)
 
-[Check the repo here!](https://github.com/sebherrerabe/tapio-exercise)(https://tapio-exercise.herokuapp.com/)
+[Check the repo here!](https://github.com/sebherrerabe/tapio-exercise)
 
 ## Requirements
 
