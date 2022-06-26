@@ -41,6 +41,7 @@ Prepare and design your project before coding!
 You can use any tool out there. Personally I get along with Figma :)
 
 ### `Folder structure`
+![Folder Structure](https://i.stack.imgur.com/741Ng.png)
 
 Before coding organise the folders of your project. 
 
