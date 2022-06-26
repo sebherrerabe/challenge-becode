@@ -21,7 +21,7 @@ Bonus
 
 ## Our goal
 
-- Learn and Understand React workflow. (Especially States and Re-rendering)
+- Learn and Understand React workflow. (States, Props and Re-rendering)
 - Learn Basic React Hooks (useState, useEffect)
 - Do simple CRUD (Create, Read, Update & Delete) Operations using React.
 - Organise in a readable way your project folders
@@ -29,6 +29,12 @@ Bonus
 - Write clean & consistent code
 
 ### `Design`
+
+Prepare and design your project before coding! 
+
+- [ ] Define your scope and user needs.
+- [ ] Style and move around your app's components.
+- [ ] Ask for some feedback
 
 
 ### `Organise your folders`
