@@ -1,6 +1,6 @@
 # React CRUD Challenge
 
-![SebsBook(./imgs/sebsbook.png?raw=true "SebsBook")](https://tapio-exercise.herokuapp.com/)
+[<img src="./imgs/sebsbook.png?raw=true">](https://tapio-exercise.herokuapp.com/)
 
 [Check the repo here!](https://github.com/sebherrerabe/tapio-exercise)
 
