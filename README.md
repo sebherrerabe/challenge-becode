@@ -40,13 +40,14 @@ Prepare and design your project before coding!
 
 You can use any tool out there. Personally I get along with Figma :)
 
-### `Organise your folders`
+### `Folder structure`
 
 Before coding organise the folders of your project. 
 
 - [ ] Define what a component is. (Components are independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and return HTML.)
 - [ ] Will I have sub-components?
 - [ ] Where should I put my assets?
+- [ ] Create your repo and install react (you can always use npx create-react-app)
 
 The truth is that there's not standard way to do it, the most important is that you feel comfortable with it considering that maybe other people could also collaborate.
 
@@ -147,7 +148,7 @@ Once everything is working properly, have another look to your code...
 
 Once you are done...
 
-- [ ] Clone your branch to your own repo.
+- [ ] Checkout to a new branch called Master.
 - [ ] Link your repo to your heroku app
 - [ ] Add commitments and push !
 - [ ] Send me the final version
@@ -155,5 +156,11 @@ Once you are done...
 
 ## Tuturials to consider
 
+
 - [Web Dev Simplified React Tutorial](https://www.youtube.com/watch?v=hQAHSlTtcmY&t=1372s)
+- [React Re-rendering](https://www.youtube.com/watch?v=0iNDB-2fg8A)
+- [Fetch Data with useEffect](https://www.youtube.com/watch?v=bYFYF2GnMy8)
+- [Folder Structure](https://www.youtube.com/watch?v=XEO3mFvrDx0)
+- [React Virtual Dom](https://www.youtube.com/watch?v=Iw2BLUjQo1E)
+- [React Best Practices](https://www.youtube.com/watch?v=5r4LlVAFrd0)
 
