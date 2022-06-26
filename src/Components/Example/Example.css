@@ -1,0 +1,8 @@
+.example {
+  background-color: white;
+  width: 425px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
