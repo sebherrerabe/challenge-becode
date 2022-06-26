@@ -1,6 +1,6 @@
 # React CRUD Challenge
 
-![SebsBook](./sebsbook.png?raw=true "SebsBook")
+![SebsBook](./imgs/sebsbook.png?raw=true "SebsBook")
 
 ## Requirements
 
@@ -29,6 +29,8 @@ Bonus
 - Write clean & consistent code
 
 ### `Design`
+
+![Figma](./imgs/figma.png?raw=true "Figma")
 
 Prepare and design your project before coding! 
 
