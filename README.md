@@ -104,7 +104,7 @@ const post = {
 
 
 
-- [ ] Delete a post
+- [ ] Update a post
 
 ```js
 const post = {
@@ -121,9 +121,16 @@ const post = {
 ```
 
 
-- [ ] Update a post
+- [ ] Delete a post
 
-
+ ```js
+ try {
+        const res = axios.delete(`https://tapio-exercise-api.herokuapp.com/api/posts/${post.id}`);
+    }
+    catch (err) {
+        console.log(err);
+    }
+ ```
 
 
 
