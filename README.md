@@ -42,6 +42,13 @@ You can use any tool out there. Personally I get along with Figma :)
 
 ### `Organise your folders`
 
+Before coding organise the folders of your project. 
+
+- [ ] Define what a component is.
+- [ ] Will I have sub-components?
+- [ ] Where should I put my assets?
+
+The truth is that there's not standard way to do it, the most important is that you feel comfortable with it considering that maybe other people could also collaborate.
 
 ### `Create HTML & CSS-only components`
 
