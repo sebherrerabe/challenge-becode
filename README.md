@@ -105,6 +105,22 @@ const post = {
 
 
 - [ ] Delete a post
+
+```js
+const post = {
+        img: "",
+        title: "this is a test updated",
+        content: "this is a test"
+    }
+    try {
+        const res = await axios.put(`https://tapio-exercise-api.herokuapp.com/api/posts/${post.id}`, post);
+    }
+    catch (err) {
+        console.log(err);
+    }
+```
+
+
 - [ ] Update a post
 
 
