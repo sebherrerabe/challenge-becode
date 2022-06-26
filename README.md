@@ -44,7 +44,7 @@ You can use any tool out there. Personally I get along with Figma :)
 
 Before coding organise the folders of your project. 
 
-- [ ] Define what a component is.
+- [ ] Define what a component is. (Components are independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and return HTML.)
 - [ ] Will I have sub-components?
 - [ ] Where should I put my assets?
 
@@ -52,8 +52,50 @@ The truth is that there's not standard way to do it, the most important is that 
 
 ### `Create HTML & CSS-only components`
 
+Let's start to code! 
+If you don't feel comfortable with writing JSX yet. You could start with simply writing HTML components with no funcitionalities. On the other hand, if you are already familiar with it, go the way you find the most proper.
+
 
 ### `Add functionalities`
+
+Now that we have our HTML elements let's add some magic to them.
+
+- [ ] Try to identify which data will change because that's probably what you will have to define as state. (Use the useState Hook)
+- [ ] Get familiar with setState because that's the built-in function that'll help you to change the data in your app.
+- [ ] Get the difference between the Dom and the React DOM and why it's important to know how re-rendering works. (**https://felixgerschau.com/react-rerender-components/**)
+- [ ] Create, Get, Update and Delete elements from an array state. (Ex: const [posts, setPosts] = useState([{...}]) )
+
+### `Fetch data`
+
+For this step you will have to get familiar with the useEffect Hook.
+
+You can use my API or create your own one.
+
+You can use JS fetch. Personally, I use Axios. It seems that the best way nowadays is to use async functions.
+
+https://tapio-exercise-api.herokuapp.com/api/
+
+- [ ] To get all posts from the API
+
+```
+try {
+        const res = await axios.get("https://tapio-exercise-api.herokuapp.com/api/posts");
+    } catch (err) {
+        console.log(err);
+    }
+```
+
+
+- [ ] Create a post
+
+
+- [ ] Delete a post
+- [ ] Update a post
+
+
+
+
+
 
 
 ### `Re-factor your code`
