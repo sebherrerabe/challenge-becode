@@ -88,6 +88,21 @@ try {
 
 - [ ] Create a post
 
+```js
+const post = {
+        img: "",
+        title: "this is a test",
+        content: "this is a test"
+    }
+    try {
+        const res = await axios.post("https://tapio-exercise-api.herokuapp.com/api/posts", post);
+    }
+    catch (err) {
+        console.log(err);
+    }
+```
+
+
 
 - [ ] Delete a post
 - [ ] Update a post
