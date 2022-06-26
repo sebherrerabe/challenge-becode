@@ -2,7 +2,7 @@
 
 ![SebsBook](./imgs/sebsbook.png?raw=true "SebsBook")
 
-[Check the repo here!](https://github.com/sebherrerabe/tapio-exercise)
+[Check the repo here!](https://github.com/sebherrerabe/tapio-exercise)(https://tapio-exercise.herokuapp.com/)
 
 ## Requirements
 
