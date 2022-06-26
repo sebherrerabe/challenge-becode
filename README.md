@@ -2,6 +2,8 @@
 
 ![SebsBook](./imgs/sebsbook.png?raw=true "SebsBook")
 
+[Check the repo here!](https://github.com/sebherrerabe/tapio-exercise)
+
 ## Requirements
 
 Create a simple CRUD application using React and myAPI
