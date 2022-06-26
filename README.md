@@ -77,7 +77,7 @@ https://tapio-exercise-api.herokuapp.com/api/
 
 - [ ] To get all posts from the API
 
-```
+```js
 try {
         const res = await axios.get("https://tapio-exercise-api.herokuapp.com/api/posts");
     } catch (err) {
