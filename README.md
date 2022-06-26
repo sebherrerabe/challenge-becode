@@ -50,6 +50,8 @@ Before coding organise the folders of your project.
 
 The truth is that there's not standard way to do it, the most important is that you feel comfortable with it considering that maybe other people could also collaborate.
 
+If you want a quick start-up clone this repo and see if you like my way to organise folders.
+
 ### `Create HTML & CSS-only components`
 
 Let's start to code! 
