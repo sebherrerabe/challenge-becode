@@ -147,7 +147,7 @@ Once everything is working properly, have another look to your code...
 - [ ] Write down a list of all the stuff you'd like to improve and shoot them one by one
 
 
-### `Deploy`
+### `Deployment`
 
 Once you are done...
 
